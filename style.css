@@ -102,9 +102,11 @@ body{
     font-size: 3rem;
     font-weight: 600;
     color: var(--white);
+    margin-left: 10px;
 }
 
 .header p{
+    margin-left: 15px;
     display:inline-block ;
    text-align: right;
     color: var(--white);
